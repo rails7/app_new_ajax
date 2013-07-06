@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts/new.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/1/trunk/app/views/posts/create.js.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts/show.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts/edit.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nacengineer/rails-3.1-AJAX-Example/!svn/ver/4/trunk/app/views/posts/index.html.erb
+END

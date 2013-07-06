@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JsTest</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <%= honey_badger [Rails.env, "BETA"] unless Rails.env.production? %>
+  <div class='.container'>
+    <div class='content'>
+      <div class='span9 offset1'>
+        <%= yield %>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

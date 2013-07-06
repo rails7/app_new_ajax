@@ -1,0 +1,16 @@
+/*
+ *= require_self
+*/
+
+@import "bootstrap";
+@import "bootstrap-responsive";
+@import "honey_badger";
+@import "scaffolds";
+
+.honey-badger.tr {
+   @include corner-banner(#709410);
+}
+
+.honey-badger.test {
+   @include corner-banner(#6593D5);
+}
